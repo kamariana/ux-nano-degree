@@ -106,3 +106,11 @@ If it is okay with you, may I record our conversation for note-taking purposes? 
 #### Wrap-up
 
 Thank you so much for sharing your experience and insights. Your answers will help me build a better product. If you have any additional thoughts and comments, I would love to hear about them at any time. I can be reached at the contacts on this card. Hope you have a wonderful day.
+
+
+
+## Study 2: Survey
+
+### Background
+
+In the previous study, I learned that the fare handout is good but it is difficult to use and create a lot of confusion among the passengers, drivers and apprentices. To solves these problems, 
