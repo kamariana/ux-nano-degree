@@ -856,6 +856,39 @@ Once you've collected and organized the insights from your research, it's time t
 
 A common way to share findings from a UX study is to summarize them in a **research report**, so that others can easily see the key results of your work.
 
-## Create Your Research Report
+### Create Your Research Report
 
 It's time to create your research report! You can use Google Slides, Powerpoint, or Key Note to create your report. Whatever software you use, you'll export the report to a PDF when you're all done.
+
+
+
+## Final Project, Step 6: Plan a Survey Study
+
+Once you've gathered findings from your interviews, it's often a good idea to follow up with a survey study. Remember, one reason for this is to ask if the results you found with the small number of people you interviewed will apply to the larger population.
+
+Rather than trying to investigate everything you learned in your interviews, you should take the opportunity to narrow down the scope of your study and just select one or two key findings that you'd like to check into further with your surveys.
+
+**Note:** *In this section, we'll walk you through how to both* **plan** *and* **run** *your survey. For your own project, we only require you to demonstrate that you know how to do the first of these two steps—to plan the survey and write questions for it. You can then go ahead and run the survey if you have time, but this is an optional step that isn't required for your project.*
+
+### Plan your survey study
+
+It's time to think about your own survey study. Like with your interview study, you should first plan out your survey before you run it.
+
+So the first step is to go back to your research plan document and add a new section for your survey study. As before, you may want to look at the [example research plan](https://video.udacity-data.com/topher/2019/October/5da657d1_example-research-plan/example-research-plan.pdf)—you'll find an example for a survey study under the heading **Study 2: Survey**.
+
+Remember, your goal with the survey study is to follow up on a few of the key findings from your interview study, in order to explore those ideas further and check whether they hold true for the larger population.
+
+Just like before, you should be sure to include the following in your plan:
+
+### Run your survey study
+
+Once you feel good about your plan, you can go ahead and send out your surveys.
+
+Here are the main to-dos:
+
+- Copy your survey questions into a service like [Google Forms](https://www.google.com/forms/about/) or [SurveyMonkey](https://www.surveymonkey.com/).
+- Whatever service you use for your survey, be sure it is set up to collect the responses (and that you know where to find this data)
+- Send out the surveys and collect the responses
+- Look at the data and see if you can find interesting patterns or insights. You'll probably want to sum up any interesting general trends you see in the data (such as, “40% of language learners say they need a personal tutor”). And you can also look at answers from different questions together (such as, “Users who said they need a teacher in question 1 also said they don’t have internet access at home in question 19”).
+- Optionally, you can do statistical analyses on your results (if you have a reason to and you know how—again, this is completely optional)
+- Take your key findings and add them to your research report
