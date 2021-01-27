@@ -1,6 +1,6 @@
 # Passengers:
 
-## Their hopes dreams
+## Their pain points and dreams
 
 **UX Researcher: A. Camariana, January 2021**
 
@@ -35,34 +35,68 @@ I wanted to find out what are the difficulties around the fare handout and also 
 
 I recruited my friends and colleagues as participants
 
-| #    | Type of Transport | Locality   |      |
-| ---- | ----------------- | ---------- | ---- |
-| P1   | Van               | Banjul     |      |
-| P2   | Gelegele          | Serrekunda |      |
-| P3   | Van               | Brikama    |      |
-| P4   | Taxi              | Brusubi    |      |
+| #    | Type of Transport use frequently | Locality   |      |
+| ---- | -------------------------------- | ---------- | ---- |
+| P1   | Van                              | Banjul     |      |
+| P2   | Gelegele                         | Serrekunda |      |
+| P3   | Van                              | Brikama    |      |
+| P4   | Taxi                             | Brusubi    |      |
 
-## Key finding 1
+**Key finding 1**
 
 ## Passengers keep the handout to settle disputes with the drivers and or apprentice
 
- 
+ *Finding*
+
+With all the difficulties around the fare handout, participants always keep a coy of the handout in other to refer to it when someone ask them about the fare and/or use it to settle disputes with the drivers and or apprentice
+
+> I kept the copy of the handout because when ever I traveled to new destinations, I refer to it and also use it to settle disputes and set the record straight for drivers and apprentice that escalate the fare.
+>
+> Participant 2
+
+## Recommendations
+
+To have a single and updated source of truth concerning the fare, the fare handout should be turn into an app (web or mobile).
+
+Things to consider:
+
+- Make it available offline
+- notify users (all users - drivers, passengers etc) when the fare changes to avoid conflicts
 
 
 
+**Key finding 2**
+
+## Passengers have difficulties in using the handout, especially quickly checking the fare from one place to the other.
+
+ *Finding*
+
+The hand is bulky, checking the fare from one locality to the other takes time and the handout is not list/group in way that user can check things up quickly 
+
+> The handout is not divided according to regions or destinations. That makes it difficult to use
+>
+> Participant 4
+
+> The handout is difficult to look up for fares, you keep looking until you look funny
+>
+> Participant 2
+
+## Recommendations
+
+When the fare handout is turned into app, it should be very easy for all users to quickly search for the fare and the fare listing page should be categories by regions.
+
+Things to consider:
+
+- Allow users to filter by regions
+- Have an easy listing of the fare
+
+## Next Steps
+
+- Validate findings with surveys
+- Run a design sprint for brainstorming
 
 
 
+## Data collection and analysis
 
-
-
-
-
-
-
-
-
-
-
-
-
+![Affinity wall]()
