@@ -35,12 +35,12 @@ I wanted to find out what are the difficulties around the fare handout and also 
 
 I recruited my friends and colleagues as participants
 
-| #    | Type of Transport use frequently | Locality   |      |
-| ---- | -------------------------------- | ---------- | ---- |
-| P1   | Van                              | Banjul     |      |
-| P2   | Gelegele                         | Serrekunda |      |
-| P3   | Van                              | Brikama    |      |
-| P4   | Taxi                             | Brusubi    |      |
+| #    | Type of Transport use frequently | Locality   | Region |
+| ---- | -------------------------------- | ---------- | ------ |
+| P1   | Van                              | Banjul     | BJL    |
+| P2   | Gelegele                         | Serrekunda | KM     |
+| P3   | Van                              | Brikama    | WCR    |
+| P4   | Taxi                             | Brusubi    | WCR    |
 
 **Key finding 1**
 
