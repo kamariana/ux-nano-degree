@@ -892,3 +892,81 @@ Here are the main to-dos:
 - Look at the data and see if you can find interesting patterns or insights. You'll probably want to sum up any interesting general trends you see in the data (such as, “40% of language learners say they need a personal tutor”). And you can also look at answers from different questions together (such as, “Users who said they need a teacher in question 1 also said they don’t have internet access at home in question 19”).
 - Optionally, you can do statistical analyses on your results (if you have a reason to and you know how—again, this is completely optional)
 - Take your key findings and add them to your research report
+
+
+
+## Additional Research Methods
+
+### Part I: Diary studies and card sorting
+
+See the video
+
+### Part II: Personas and Jobs-to-be-done
+
+See the video
+
+## Additional resources
+
+For your final project, you are free to conduct additional research studies. (For UX research, it is always a matter of "the more the merrier"!)
+
+Here are some additional readings to check out if you want to dive deeper into research methods:
+
+- [When to use which user-experience research method](https://www.nngroup.com/articles/which-ux-research-methods/)
+- [IDEO.org design kit](http://www.designkit.org/methods)
+- [Universal Methods of Design](https://www.amazon.com/Universal-Methods-Design-Innovative-Effective/dp/1592537561)
+
+
+
+# Design for Humans
+
+In the last lesson, we looked at some examples of how psychology can be used in a negative way to manipulate users, such as through the use of unnecessary urgency and manipulinks. In this lesson, we'll look at how to apply psychology to design in a positive way. Some of the things we'll look at are:
+
+- **Thinking is hard**; a good design will support the user by reducing the amount of time and effort required to use the product
+- We should consider **peripheral vision** in designing the placement, color, and movement of our designs
+- We can improve our designs by applying principles from **Gestalt psychology**, such as how the grouping of objects affects the way we perceive them
+- We can use **emotional design** to help our product resonate better with the user's experience
+
+We'll also get more practice with sketching—and we'll take a shot at incorporating what we've learned into our sketches.
+
+
+
+## Step 7A: Sketch a design
+
+For my app, I wanted to focus on vocabulary building, since the data from my study showed that this is the feature my users are most interested in. Below you can see a quick sketch for the vocabulary sets screen, where users are shown a list of vocabulary sets and they can choose which one they want to study.
+
+I'm showing you the sketch for my app just to give you a general idea of the kind of thing we're trying to do—your sketch will probably look very different, since you're designing a different product! You should feel free to be as creative as you like.
+
+It’s time to sketch again.
+
+Having run your user interviews and surveys, hopefully by now you have a better idea of your user's needs and what you want to design to meet those needs. As part of your final project, your goal is to sketch out at least one screen of the potential core experience for your use.
+
+What are some of the interesting findings from your research project? You should incorporate at least one of these findings in your sketch.
+
+Remember, don't be intimidated by sketching! This should be a fun and creative way to generate ideas—and you should not feel like it has to be perfect. You can (and should) iterate on your design anyway. (Focus on improvement over time, not perfection!)
+
+For this exercise, you can choose to draw a single screen or multiple screens. You can sketch on paper or on a tablet, whichever you prefer.
+
+Have fun sketching!
+
+- **Sketch one or more screens** for the product you're designing.
+
+- When sketching, **make use of at least one of the findings from your research**.
+
+- **Take a photo** (or screenshot) of the design and copy it into a word document or slide (so that you can add text next to it). You can use whatever app you like for this part, as long as you can export the result as a PDF (this is how you'll submit it later on).
+
+- Next to your design, explain what this screen is about and what users are supposed to do on this screen.
+
+- Also next to your design, explain which research finding(s) you applied and describe how they make the user experience better.
+
+  
+
+## Thinking is Hard
+
+As humans, we may like to think of ourselves as "the thinking animals". But thinking is hard! When we process information, try to understand what we're looking at, or make a choice about something—all of these tasks take time and energy.
+
+Many human behaviors can be understood by keeping this in mind. As human beings, our users have limited time and energy to think about what we're showing them. So if we want our product to give them a good experience, we need to design in a way that reduces this mental load.
+
+
+
+## Text and readability
+
