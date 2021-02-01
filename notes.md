@@ -970,3 +970,93 @@ Many human behaviors can be understood by keeping this in mind. As human beings,
 
 ## Text and readability
 
+Remember:
+
+- Users don't read; they scan
+- Our job is to help users scan faster and get the information they need
+
+
+
+### QUESTION 1 OF 3
+
+What techniques can you use to make blocks of text more digestible?
+
+(Select all that apply.)
+
+- [x] Add headers to paragraphs
+- [ ] Apply creative writing skills and use advanced vocabulary
+- [x] Highlight keywords
+- [ ] Use paragraphs instead of bullet points
+- [x] Visualize concepts
+- [x] Use bullet points instead of paragraphs
+- [x] Reduce words
+
+Remember:
+
+- **Choice are good** because they give the user autonomy and freedom, but **too many choices can be overwhelming** and may result in "choice paralysis".
+- A good way to save the user time and energy is to **use existing patterns** that they've seen before. They know where to look for a particular feature because they've seen that feature before in other apps. That said, we may sometimes have good reasons for being creative and doing something differently. Violating expectations can sometimes (like when building a game) be done in a positive way that is fun for the user. But we want to do this mindfully and make sure our users really do like it!
+
+
+
+## Further reading
+
+If this topic interests you, you might enjoy Steve Krug's classic (and very short) book on usability testing, [Don't Make Me Think](http://sensible.com/dmmt.html).
+
+### QUESTION 1 OF 2
+
+The GIF above is from Bloomberg. What techniques did Bloomberg apply to draw users’ attention to the live TV?
+
+- [ ] People always pay attention to the top right of the screen
+- [ ] People tend to read everything on the screen
+- [ ] Peripheral vision is very sensitive to colors
+- [x] Peripheral vision is sensitive to motion
+
+### QUESTION 2 OF 2
+
+Which of the following design decisions would agree with what we know about peripheral vision?
+
+(Select all that apply.)
+
+- [ ] On a newspaper web page, place a blinking ads banner in the top right corner
+- [x] Make an important notification stand out by coloring it to be the only red element
+- [x] Place less important links, such as “about” and “News press” in the footer
+- [x] Place important information in the center of the interface
+
+
+
+Here is a summary of the key design psychology principles you should be taking away from this course:
+
+- Users don’t read; they scan.
+- Apply Gestalt principles in design; consider how the "form" (e.g., spacing and grouping) of your design affects the user experience.
+- Users like to have choices, but not too many choices.
+- Our peripheral vision is poor at seeing, but sensitive to motions.
+- Our past experience shapes our expectations.
+
+If you'd like to go deeper, here are some books I recommend:
+
+- [Designing with the Mind in Mind](https://books.google.com/books/about/Designing_with_the_Mind_in_Mind.html?id=woVADVwtL1gC&source=kp_book_description)
+- [100 Things Every Designer Needs to Know About People](https://www.amazon.com/Things-Designer-People-Voices-Matter/dp/0321767535)
+- [Don't Make Me Think](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=pd_bxgy_14_img_3/131-7452031-8962139?_encoding=UTF8&pd_rd_i=0321965515&pd_rd_r=3bccddd3-89b4-4735-9b3a-215f60876f40&pd_rd_w=0iqZ4&pd_rd_wg=S8ha1&pf_rd_p=a2006322-0bc0-4db9-a08e-d168c18ce6f0&pf_rd_r=7RF4A5ZJ3J3GBCKVNFF3&psc=1&refRID=7RF4A5ZJ3J3GBCKVNFF3)
+
+This is very discouraging to see a red "fail" on the screen.
+
+
+
+## Further reading
+
+We mentioned designer [Don Norman](https://jnd.org/) earlier in this course. If you are interested in emotional design, you might want to check out his book by the same title:
+
+- [Emotional Design by Don Norman](https://www.nngroup.com/books/emotional-design/)
+
+
+
+
+
+
+
+---
+
+
+
+# LOW FID...
+
