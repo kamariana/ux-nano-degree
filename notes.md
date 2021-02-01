@@ -1058,5 +1058,5 @@ We mentioned designer [Don Norman](https://jnd.org/) earlier in this course. If 
 
 
 
-# LOW FID...
+# Concept to Low-Fidelity Prototyping
 
