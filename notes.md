@@ -1060,3 +1060,201 @@ We mentioned designer [Don Norman](https://jnd.org/) earlier in this course. If 
 
 # Concept to Low-Fidelity Prototyping
 
+## Course Overview
+
+Now let's get a general idea of what this course is about, and what the key concepts are that we'll be covering.
+
+## This course will cover:
+
+- Building customer understanding from someone else's product research
+- Identifying viable product opportunities and ideas
+- Prototyping product concepts in low-fidelity
+- Testing and validating product direction using low-fidelity designs
+- Improving product direction from early usability tests
+
+## Designing for Digital Applications
+
+Throughout this course, we'll be discussing design in the context of digital applications—mobile apps and web tools. Many frameworks and aspects of the design process are applicable to other areas of design (e.g., industrial design or process design), but the techniques and skills we'll practice here are most relevant for digital apps.
+
+## Prerequisite expectations
+
+We expect that you have pre-existing knowledge in the following areas.
+
+- Research fundamentals
+- Competitive UI analysis
+- Understanding of basic user psychology
+
+We've also included a few *recap* pages in this course to help you review some of these concepts.
+
+## This course will *not* cover
+
+- "High Fidelity", Pixel-Perfect designs
+- Branding or visual styles
+- Implementation/software/frontend engineering
+
+
+
+## What You'll Build
+
+If you follow along with everything in this course, then by the time you finish you should be able to **take a product idea from a concept to a validated low-fidelity prototype**—that's what this course is all about, and that's exactly what you'll do for your final project.
+
+In the previous course, you conducted some research—either on the Coffee Shop app or on a topic of your choice. Starting with this research, you'll pull together key findings, make some initial sketches, and take your first shot at a prototype. Then you'll do some usability testing on this prototype, and use the insights gained from this testing to make a new, revised prototype.
+
+Just to give you a rough idea, the overall process will look something like this:
+
+![](/home/ku/www/lab/00-learnings/udacity/ux-nano-degree/resources/screen-shot-2019-08-01-at-12.09.16-pm.png)
+
+## Can I switch my topic?
+
+As we mentioned above, you can base your prototype on the research you did in the first course. But what if you no longer like the topic you chose? If that's the case, you can switch to the Coffee Shop app for your prototyping. We'll provide you with some pre-recorded user interviews for the Coffee Shop app—so even if you don't have your own research on this topic, you can still switch to it for this project.
+
+> **Note:** If you're wanting to check out the pre-recorded Coffee Shop interviews now, you can find them in the project instructions at the end of this course.
+
+
+
+## Keeping the project in mind
+
+This entire course is structured to help you learn the skills you'll need for the final project. As such, it can help a lot to keep the project in mind as you go through the lessons—and you may even wish to start working on the project as you go, rather than waiting until you get to the end of the course.
+
+You'll find the project, including detailed instructions for it, in the last lesson of this course, called **Project: Low-Fidelity Rapid Prototyping Sprint.**
+
+## Ideas, Ambiguity, and Risk
+
+Ultimately, design is all about the following:
+
+*Building the right thing for our users.*
+
+But this statement is loaded with ambiguity. How do we know whether we've built the "right" thing? And on a more basic level, how do we even know who our users are? The answers may be unclear—and to make things more complex, these questions may mean different things to different members of the team.
+
+When developing a new product, there are lots of risks. You might find that you're building the wrong product, targeting the wrong users, or simply that you have confusion and misalignment between different members of your team.
+
+As the designer, part of your job is to ensure that your core design questions get validated answers, and that the team is in agreement on those answers. A software engineer will think differently from a sales person, and it's your job as a designer to speak a common language—while defining the problem and steering the ship towards a product that has a good chance of success.
+
+
+
+## The Design Sprint
+
+To be successful in this role, you don't want to leave things up to chance—you want to have a good *process* in place for generating and refining your product ideas. And that's just what a *design sprint* is for.
+
+> A **design sprint** is a process for collaboratively exploring, refining, and validating ideas—while simultaneously minimizing risk and getting alignment across your team.
+
+In this lesson, we'll explore design sprints. Specifically, we'll get into:
+
+- The ideal design process—and how the constraints of your situation may make this ideal process impossible
+- How you can apply techniques like *Guerilla design sprints* to get the job done in non-ideal scenarios
+- How to collaborate with others, including tips on how to hold design workshops
+- How to use techniques like *active listening* to incorporate research and user data into your design ideas
+
+### QUESTION 1 OF 2
+
+As we discussed in the video, there are two questions we might ask about a product idea:
+
+Are we building the *thing* **right**?
+Are we building the **right** *thing*?
+
+The role that a team member holds (e.g., engineer vs. designer) tends to be related to which of these questions they focus on.
+
+See if you can guess which question each of these roles would focus on:
+
+QUESTION
+
+Engineer : Are we building the *thing* **right**?
+
+Designer: Are we building the **right** *thing*?
+
+Product Manager : Are we building the **right** *thing*?
+
+QUESTION 2 OF 2
+
+Is the content in this course prescriptive? In other words, is this the only way to accomplish design goals?
+
+- [ ] Yes, each step should be followed perfectly or the product will probably fail.
+- [x] No, design is creative—and the process creative too. The process is there to guide you through ambiguous choices and can be adjusted for specific situations.
+
+
+
+
+
+## The Ideal Design Process
+
+### The Double Diamond Design Process
+
+See the video
+
+### Other Challenges Along the Way
+
+*Fatigue and Burnout* - Some sprints will be quick and yield immediate results; others might alternate between research and synthesis for what feels like forever. In these cases, there's a risk that you and your team hit burnout—you get fatigued or lose interest. **This isn't a good reason to deviate from the process**. Instead, you might want to have frequent conversations to ensure the team is still motivated or address why the process is taking so long to begin with.
+
+*Deadlines and Deliverables* - There may be situations where you absolutely must deliver something by a deadline—companies often need to pitch investors or clients, and in such cases you may find yourself crunched for time. You may find that you simple have to skip some steps of the process. When you find yourself doing this, be especially careful to note what biases you have and what assumptions you're making when skipping steps—and, ideally, make a concrete plan to check into (or test) these assumptions as soon as possible.
+
+
+
+What are some reasons that might change the Double Diamond process in practice?
+
+- [x] Over budget and cannot recruit more participants
+- [ ] Fatigue or loss of interest in the problem statement
+- [x] New data or understanding changes the opportunity areas
+- [x] Wrong assumptions were made
+- [x] Project deadlines and deliverables
+
+
+
+## Guerrilla Design Sprints
+
+## Designing Within Constraints
+
+The traditional double-diamond design process can be expensive and time-consuming. When we are designing in the presence of real-world constraints, it can sometimes be a good idea to step outside the traditional design framework, to get creative, and to improvise—to engage in what we might call **guerilla design**.
+
+## Transferring Knowledge Through Role-Playing
+
+Sometimes you'll join a team where there's valuable pre-existing knowledge. The team may have completed a tremendous amount of their own research before you joined, or may have a lot of experience from working with users on related products in the past.
+
+In these situations, it can be helpful to *role-play* with one of your colleagues who has this knowledge. You'll still prepare as though you're about to interview a respondent—complete with a discussion guide or usability guide—but your colleague plays the role of the user. They channel their accumulated understanding and provide answers in the first person to help you build empathy with who you're designing for.
+
+
+
+When might you employ guerrilla design tactics?
+
+(Select all that apply.)
+
+- [x] Limited budget to recruit
+- [x] Testing a wild idea that you don't have high confidence in
+- [x] When you don't have time to follow the process as defined
+- [ ] When you have a large comfy budget and a healthy timeline
+- [x] When there is a deep understanding of a user persona and you can role-play to build empathy
+
+## Collaborative Design
+
+Building a really well-designed product is almost always best done by a team, not an individual. Every team member brings a different perspective and skillset, and this diversity is not simply something to tolerate—it is an incredible resource that you should deliberately build into your process and benefit from.
+
+For example, effective collaboration can help to ensure you're not designing too deeply with your own bias. Let's say you are building a travel application. If you are a frequent flyer, you might have some personal pain points you'll want to solve. If you don't involve others, you might go down a path that is specific to your own unique experiences instead of designing something that is generalizable to other users. You also may not have the skills to build the product from end to end. In this case, you might miss key technical risks or business operations risks that will limit the project's impact later on in the process.
+
+Collaborating early and often prevents these kinds of issues.
+
+Match the probable process style with the design setting:
+
+An agency working with a Fortune 500 company: **Ideal**
+
+An agency working with a 3-person, unfunded start-up : **Guerrilla**
+
+A freelance role in a 5-person, unfunded startup: **Guerrilla**
+
+A freelance role in a 100-person, well-funded startup: **Ideal or Guerilla**
+
+A lead designer role in a well-funded product organization under a deadline to launch a new product quickly: **Guerrilla**
+
+
+
+#### Understanding How to Obtain Buy-In
+
+Asking the questions presented in the video helps you to communicate effectively with your stakeholders. What you don't want to do is not learn from these conversations. If an engineer you're working with expresses they want to see more empirical, qualitative data, you should probably add some form of numerical analysis to your presentations for the next meeting instead of only including user quotes. I've seen designers fail to iterate on their own interactions, which leads to a strained, distant relationship between the designers who are interfacing with customers and the engineers who are interfacing with code.
+
+## Share Key Progress
+
+Along our design journey, we'll be collecting data to inform our designs. "Data" can be anything, from what someone said or did, to some statistic about the state of an industry. As you watch the following video, think about the types of data and information you can present to stakeholders along the way so that they understand how your design came into existence.
+
+## Running a Workshop
+
+## Facilitating Collaboration Sessions
+
+As you're collaborating, you'll often want to engage your team in a workshop. These are a great way to ensure that everyone's ideas are being shared in a structured format. You'll often find that stakeholders who are not that engaged, will start to understand the process after a well-run workshop. People love to break from their day-to-day tasks to think creatively about interesting problems!
