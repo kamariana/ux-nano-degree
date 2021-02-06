@@ -4,6 +4,8 @@ For me, the most important major take aways are: focus on the core task flow, al
 
 
 
+add filtering to the fare listing
+
 
 
 
@@ -1258,3 +1260,51 @@ Along our design journey, we'll be collecting data to inform our designs. "Data"
 ## Facilitating Collaboration Sessions
 
 As you're collaborating, you'll often want to engage your team in a workshop. These are a great way to ensure that everyone's ideas are being shared in a structured format. You'll often find that stakeholders who are not that engaged, will start to understand the process after a well-run workshop. People love to break from their day-to-day tasks to think creatively about interesting problems!
+
+
+
+
+
+---
+
+### COMBINATORICS PROMPT
+
+It's like `Yellow Taxi Cabs` 
+
+without `needing to stand on the street` 
+
+plus `realtime trip GPS information`
+
+Uber
+
+It's like `a Hotel` 
+
+without `the formality of a Hotel` 
+
+plus `local hosts who are real people`
+
+AirBnB
+
+It's like `a whiteboard` 
+
+without `the need to buy markers` 
+
+plus `distributed collaboration around the world`
+
+Miro
+
+
+
+---
+
+#### Danger of Dot Voting
+
+When using dot voting, be wary of [herd behavior](https://en.wikipedia.org/wiki/Herd_behavior)—where people in a group think or behave differently than they would as individuals. This can come up in behavioral studies (such as focus groups) where many people might verbally agree with a statement said in a group conversation, even though they individually do not *actually* agree with the statement.
+
+In our context, the first person who places dots might bias the group's thinking. If they feel especially strongly about a dot, they might run over and place the dot. Often it is a good idea to offer time for everyone to silently think about where they want to place dots before providing the dots.
+
+
+
+*The following graphic is some output from an affinity-mapping and dot-voting workshop. Everyone was allowed to place at most one of each dot. Use the graphic to answer the questions below.*
+
+**Note:** *You'll also often see dot voting referred to as* **dotmocracy** *(this is just another word for exactly the same proce*
