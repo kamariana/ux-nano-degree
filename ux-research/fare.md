@@ -4,7 +4,7 @@
 
 ### Background
 
-I was in a van (a shared transport) going to West Field from Brikama. It's time to pay the fare, usually after the Airport junction, the apprentice proclaimed "pass"! One of the passengers sitting at my right side, gave the the apprentice D10, the apprentice ask him "Foi dem?" meaning where are you going? The passenger replied "Latrikunda", the apprentice looked at him with rage and said "pass bi D18 la deh". The passenger replied with a counter question "Hana pass bi nyatala Brikama bey Latrikunda?" The apprentice says "D18", the passenger said "deit, pass bi D10 la". 
+I was in a van (a shared transport) going to West Field from Brikama. It's time to pay the fare, usually after the airport junction, the apprentice proclaimed "pass"! One of the passengers sitting at my right side, gave the the apprentice D10, the apprentice ask him "Foi dem?" meaning where are you going? The passenger replied "Latrikunda", the apprentice looked at him with rage and said "pass bi D18 la deh". The passenger replied with a counter question "Hana pass bi nyatala Brikama bey Latrikunda?" The apprentice says "D18", the passenger said "deit, pass bi D10 la". 
 
 While arguing, the passenger pull out a handout (six pages long, A4 papers) containing a tabular data of all the fares within the country. He flip through the pages scanning for the fare from Brikama to Latrikunda and after a couple of seconds, he pointed out to the apprentice "saytal, pass bi D10 la". The apprentice confirm, kept quite and return his change calmly.
 
@@ -60,13 +60,13 @@ Based on the background statement above, I want to turn the fare handout into a 
 3. Do you know that a fare handout exist that list out all the fares from one locality to the other within the country?
 
    ​	a. Yes
-   ​	b. No
+   ​	b. No (screen out)
 
 4. How often do you use the public transport?
 
    ​	a. Everyday
-   ​	c. 5 times in a week​
-   ​	e. once a week
+   ​	c. 5 times in a week
+   ​	e. once a week (screen out)
 
 
 ### Script
