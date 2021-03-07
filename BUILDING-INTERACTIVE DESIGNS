@@ -1,0 +1,93 @@
+#### Fidelity
+
+Level of detail in a design, ranging from simple (Low) to more complex (High). These are typically stages of a prototype, and not of a shipped product.
+
+- ##### Low-fidelity
+
+  - The beginning stage, often done with pen and paper, that is mostly made of blocking in concepts and a general direction. Image and copy are considered as blocked out sections and not yet fleshed out. One can iterate quickly and receive feedback here.
+
+- ##### Mid-fidelity
+
+  - The middle stage between low and high fidelity, where some text copy is included, but colors and images are still missing. Some designs will skip this stage.
+
+- ##### High-fidelity
+
+  - Closest to the final design, this includes final copy, images and colors. While taking the longest of the three stages to create, it is best for obtaining accurate user feedback as well as sharing with various stakeholders.
+
+#### UI Kits
+
+A design file that has the main parts of an interface design with the goal of improving design workflow. They can be simple or very complex, and contain elements such as buttons, navigation, typography, search bars, input fields, tool tips, and dialogs. They are mostly used for prototyping and web design. UI Kits only need to be created once, and then can be used repeatedly and distributed amongst team members to help align the overall visual design.
+
+#### Figma *(Tool)*
+
+FIgma is a full featured design tool used to create high-fidelity designs. It allows for collaboration similar to Google Docs, and you can build components to be re-used and shared with your team.
+
+#### Figma plugins
+
+A plugin is component that you add to another piece of software that gives that software enhanced features and/or functionality. Figma uses these for things like accessibility, additional files, and visualizing data.
+
+#### Parts of a style guide
+
+Style guides typically contain sections on (at a minimum) typography, colors, imagery & illustrations, and icons.
+
+- ##### Typography
+
+  - In a style guide, typically consists of style for headings, subheadings, navigation and body copy.
+
+- ##### Colors
+
+  - In a style guide, typically consists of Primary and Secondary Colors, along with their associated names and HEX codes.
+
+- ##### Imagery/Illustrations
+
+  - In a style guide, includes images and illustrations to be used throughout the design.
+
+- ##### Icons
+
+  - In a style guide, this includes the icons themselves, as well as dividing by different screens and grouping by size (i.e. 24px, 64 px, etc.).
+
+#### Parts of a UI Kit
+
+UI Kits have multiple components, including the primary sections of buttons and navigation, along with other elements such as search bars, input fields, lists and dialogs.
+
+- ##### Buttons
+
+  - Standard styling for buttons throughout the UI.
+
+- ##### Navigation
+
+  - Standard styling for Navigation menus throughout the UI.
+
+- ##### Other elements
+
+  - ##### Search bars
+
+    - Standard styling for areas where users can perform searches using the UI. What happens when the user begins typing in the bar?
+
+  - ##### Input fields
+
+    - Standard styling for areas where users will input text or other data in the UI. A chat box could be one application of this.
+
+  - ##### Lists
+
+    - Standard styling for lists in the UI. For example, is each item within a separate dividing box, with spacing in between the boxes? Are the items just displayed as bullet points?
+
+  - ##### Dialogs
+
+    - Standard styling for dialog boxes in the UI. How is it differentiated from the main page?
+
+#### Clickable prototype
+
+An interactive version of your prototype, allowing you to work out any kinks in the experience, such as user flow from page to page. They can save time and money before engineers spend countless hours in development, and help the engineers to better get a preview of how the final application should behave.
+
+#### Scrolling
+
+Allows for moving content up or down if not everything can be displayed at once. Vertical scrolling came from traditional typewriters, along with how people read books. It’s best to keep the most important parts of the content “above the fold”, without a need for scrolling, for the optimal user experience.
+
+#### Transitions
+
+Transitions between screens can help bring the work to life, and even be a little fun and delightful for users. Animations for transitions should be subtle, yet meaningful
+
+#### Overlays
+
+A screen that appears on top of the main UI. It is used to focus the user on one specific action, while disabling the rest. Also known as modals or dialogs.
