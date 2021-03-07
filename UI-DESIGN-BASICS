@@ -1,0 +1,123 @@
+#### UI
+
+Shorthand for User Interface. It’s everything you, the “user”, interact with!
+
+#### GUI
+
+Shorthand for Graphical User Interface. First created in the 1980’s at Xerox PARC.
+
+#### Responsive
+
+Responsive design is a design method that accommodates for things such as screen size, the platform the user is one and what way a device is oriented. This applies to websites takes advantage of features the browser provides.
+
+#### Native
+
+Native applications are local to your device and take advantage of the various applications your device such as the camera, bluetooth and GPS. When you hear the term "mobile app", people are most likely referring to a Native application.
+
+#### Hybrid
+
+This is a mix of both the Responsive and Native experience. It uses features of both mobile and web, and you can often download them from the app store. Hybrid apps are usually developed faster than native apps.
+
+#### Skeuomorphic design
+
+Taking elements from the real world and bringing them into the digital world so the user is readily familiar with something, or to help make it more intuitive.
+
+#### Flat design
+
+Represent things in the digital world without having to make it look like physical things, while focusing on usability.
+
+#### Flat 2.0
+
+Aims to find a middle ground, using the best aspects of Skeuomorphism and Flat design.
+
+#### Mobbin *(Tool)*
+
+A tool created for collections of the latest and greatest mobile design patterns, where users can save down the designs for later review and perusal.
+
+#### UI Designer
+
+The role of a UI Designer focuses mainly on building out digital user interfaces, but more specifically, focusing on information architecture - such as how elements are arranged on a page, why they are there and how clearly that is communicated to the user. UI designers bring it all together, making sure there is a consistent design narrative that runs throughout the company through the creation of style guides and design systems.
+
+#### UX Designer
+
+UX Designers focus on the holistic experience, identifying a problem, what it will take to solve it, iterating & refining user flows and the overall user's journey to a delightful experience. They would produce artifacts such as: wireframes, user flows, sitemaps, user journeys and affinity maps.
+
+#### Graphic Designer
+
+A graphic designer has its roots in the print industry such as working on magazines and posters. Much of what they did then is still done today - just in a digital format! Their job is very visual and they generally decide how things are going to look. They make icons, choose colors, patterns and font pairings.
+
+#### Principles of interaction design
+
+Bruce Tognazzini designed the first computer interface in the late 70's at Apple, and also created a list of 21 first principles of interaction to make for more effective interface design. In the lesson, we focused on four key principles: Levels of Consistency, Discoverability, Readability and Simplicity.
+
+- ##### Levels of Consistency
+
+  - Keep a consistent look and feel from screen to screen, as well as standardizing the location of certain items like menu bars.
+
+- ##### Discoverability
+
+  - Making sure that items that are important for a user to complete a task are visible, discoverable and accessible when they need them. User testing can help greatly with this.
+
+- ##### Readability
+
+  - Text should be high contrast, in a large enough size to be readable on the user’s device of choice, and key words should be first in menu items.
+
+- ##### Simplicity
+
+  - Making an interface easy to use without sacrificing essential user functions. Simplicity should be a benefit to the user. Complex items appear just in time for when a user needs them.
+
+#### Google Gallery *(Tool)*
+
+A tool for designers to upload their designs to a single location.
+
+#### Typography
+
+Arranging text to make it more legible, readable and appealing. In the lesson, we discussed three of the parts of typography: Kerning, Leading and Font Pairings.
+
+- ##### Kerning
+
+  - Modifying space in between font characters, whether adding or taking away space.
+
+- ##### Leading
+
+  - Modifying space between lines of characters, either using or saving space on a page.
+
+- ##### Font Pairings
+
+  - The art of combining different fonts or different styles of fonts from the same font family to create aesthetically beautiful looking typography.
+
+#### Design systems
+
+A design system serves as a north star for a project, collecting all the aspects that enable a team to develop a design. It can grow and evolve over time with more assets & components.
+
+#### Atomic design
+
+Inspired by basic units of matter in science, atomic design builds from small pieces into larger pieces. It is broken down into atoms, molecules, organisms, templates and pages, with each element building on the previous.
+
+#### Navigation systems
+
+Navigation allows users to intuitively interact with the product and move through the interface you've designed. There are various navigation patterns that exist and which one you use depends on what you are building and who you are building for. Some common ones are: Hamburger menus, mega menus, call to action buttons, and breadcrumbs.
+
+- ##### Hamburger Menus
+
+  - Hamburger menus are like those used at the top left of the Udacity classroom - a set of horizontal bars, like a hamburger, that hide or show a menu when clicked. These can helpfully be activated when needed, but can also potentially hide important menu items from the user.
+
+- ##### Mega Menus
+
+  - Mega menus are larger menus that often come as dropdowns from a button or menu bar. They are robust and can hold a lot of menu items, but can also be too overloaded for the user.
+
+- ##### Call to Action buttons
+
+  - Call to Action buttons tell the user to take action in some way, such as signing up for a free trial or a premium option. It can focus the user on one clear goal, but can also go wrong with poor copyrighting.
+
+- ##### Breadcrumbs
+
+  - Breadcrumbs deal with website hierarchy, such as online shopping websites drilling further and further down into subcategories. They help users know where they came from, but don’t work well for large menu sets.
+
+#### Style guides
+
+A style guide is a part of a design system that focuses on elements such as: icons, color, typography, and graphics. It helps designers work better with developers by providing them what they need to implement what you've created in a way that is true to what you've designed. Design systems can vary from product to product and can be very extensive, or be incredibly simplistic.
+
+#### Stylifyme *(Tool)*
+
+This tool can be used to quickly and easily extract a simple style guide from any supplied webpage.
