@@ -1308,3 +1308,91 @@ In our context, the first person who places dots might bias the group's thinking
 *The following graphic is some output from an affinity-mapping and dot-voting workshop. Everyone was allowed to place at most one of each dot. Use the graphic to answer the questions below.*
 
 **Note:** *You'll also often see dot voting referred to as* **dotmocracy** *(this is just another word for exactly the same proce*
+
+
+
+
+
+---
+
+## UX vs UI vs UX/UI
+
+We're crossing an important boundary at this stage. Up until now, we've been building an understanding, making key decisions about our design strategy, and trying to figure out which features are most valuable to our users. We've been talking about our product in an abstract way that might not even be software.
+
+In other words, we've been focusing on the **User Experience (UX)** of our product. UX is a critical skill to build as a designer. It focuses on answering the "why" of building a specific product. Mastery of UX skills will yield high impact on the products you ship.
+
+But now we'll be focusing on the "what". The **User Interface (UI)** is how we'll solve the problems we know we need based on our UX research. The UI we're describing assumes we're building a digital software product. It focuses on layouts, pixels, and user flows.
+
+UI is also important to building successful products, as without it users will not enjoy what you build.
+
+In practice as a designer, you'll often find yourself gravitating towards UX **or** UI depending on your skills, interest, and your team's needs. However, in many companies, you'll find these roles are blurred together into a UX/UI designer who is responsible for the total user experience.
+
+
+
+
+
+## Building Understanding - VIP
+
+### Research Basics
+
+You got some underlying knowledge in primary research techniques from the first course in this Nanodegree. But to make sure the ideas are fresh in your mind, let's do a quick refresher on some basic research principles.
+
+1. **Defining assumptions** (Build and understanding about our users without baise)
+   1. Assume you know nothing
+   2. list what you think you know and find data to support these assertions
+   3. share your list with colleagues, friends, or customers
+2. **Defining Objectives** (why are we designing?)
+   1. Set project goals by asking questions
+      1. Are we trying to increase:
+         1. revenue?
+         2. adoption?
+         3. engagement?
+3. Secondary research (usually does not answer the questions why things are the way they are)
+   1. online searches
+   2. industry or academic publications
+   3. public dataset analysis
+4. **Primary research** (usually says the way things are)
+   1. Qualitative methods
+      1. Interview and Ethnography 
+      2. Observation contextual Inquiry
+   2. Quantitative methods
+      1. Surveys
+      2. Interaction tracking and analytics
+
+Asking good questions
+
+6w's - why, where, what, when, who, how
+
+example, when was the last time you .........?
+
+### Active Listening - Writing Research as Atomic Nuggets
+
+The term [Atomic Unit](https://medium.com/@tsharon/the-atomic-unit-of-a-research-insight-7bf13ec8fabe) (with regard to design) was coined by WeWork's design team while building a research tool called Polaris. Ultimately as you're conducting research you'll want to be actively listening for these nuggets of knowledge.
+
+As you're exploring your research, you can write **Active Listening** notes to capture these nuggets. These are post-it notes that contain just enough text to communicate a little bit of knowledge. These notes can include:
+
+- User Quotes
+  - Important things a respondent sayd
+  - Things to look for:
+    - Pains and frustrations
+    - Wishes and desires
+    - Delights and joys
+  - Paraphrase but keep the essence
+- Facts and Desktop Findings
+  - Statistics, Tools, or features of competitors
+  - Examples
+    - In 2018 ontime arrival rate was 88.3%
+    - 2 out 1,000 bags are lost
+    - flight delay alerts in flightaware.com (a competitor is doing to see)
+- Observations and AHA moments of inspiration (anything that stands out as important)
+  - Anything that stands out as interesting
+  - Your interpretations of patterns and trends
+  - Examples
+    - Respondent seemed happy and that the airline gave them a shopping allowance after lost bag
+    - Behavior didn't change after missing two flights
+
+Example of user quotes
+
+- "Yeah - I'll NEVER fly that airline again after a 2 hour delay like that"
+- "We really have no choice... all airlines are terrible"
+- "I missed my flight... I didn't expect traffic"
