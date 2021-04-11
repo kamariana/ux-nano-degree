@@ -4,6 +4,12 @@ For me, the most important major take aways are: focus on the core task flow, al
 
 
 
+Partially correct. Design without user or customer input or feedback is not human-centered and should not be included.
+
+
+
+
+
 add filtering to the fare listing
 
 
